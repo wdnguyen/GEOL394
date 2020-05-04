@@ -1,0 +1,16 @@
+---
+title: "Thesis Poster Extras"
+author: "William Nguyen"
+date: "5/4/2020"
+output: 
+  html_document:
+    keep_md: yes
+---
+
+Hello! Thank you for visiting. This page just contains some extras from my GEOL394 poster on the "Influence of Road Salt on the Mobilization of Bioreactive Elements in Regenerative Stormwater Conveyance Systems".
+
+# References:
+
+Fig. 1 is loosely adapted from Williams et. al (2016)
+
+> Williams, M. R., Wessel, B. M., and Filoso, S. (2016). Sources of iron (Fe) and factors regulating the development of flocculate from Fe-oxidizing bacteria in regenerative streamwater conveyance structures. Ecological Engineering, 95:723–737.
