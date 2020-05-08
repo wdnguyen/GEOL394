@@ -36,3 +36,8 @@ My methodology schematic is based on methods derived from Duan and Kaushal (2015
 
 ![Methodology](https://github.com/wdnguyen/GEOL394/blob/master/Methodology.png?raw=true "Methodology")
 
+## Extras:
+
+Major anion trends in the College Park area using data from the USGS Northeast Branch Anacostia gauge. 
+
+![anions](https://github.com/wdnguyen/GEOL394/blob/master/nea_anions.png?raw=true "Anions")
